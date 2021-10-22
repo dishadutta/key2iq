@@ -1,6 +1,7 @@
 {
   "name": "key2iq_task",
   "version": "0.1.0",
+  "homepage": "http://dishadutta.github.io/key2iq",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.36",
